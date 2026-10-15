@@ -63138,5 +63138,12 @@
     "author": "ashotis",
     "description": "Play seven-colour stereo noise with binaural tones, an adjustable pulse and a sleep timer in your sidebar. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "ashotis/static-fm"
+  },
+  {
+    "id": "git-sync",
+    "name": "Git Sync",
+    "author": "Jeff Stapleton",
+    "description": "Automatically commit, push and pull your vault over git, like Obsidian Sync.",
+    "repo": "Jeff-Stapleton/git-sync"
   }
 ]
